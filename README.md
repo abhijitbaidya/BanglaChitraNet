@@ -12,7 +12,10 @@ While prior work has demonstrated the power of intramodal interactions through c
 
 Extensive experiments on the **Flickr8k** and **BAN-Cap** datasets show that Bangla Chitra Net outperforms traditional CNN+Transformer-based methods in both accuracy and fluency of generated captions.
 
----
+## 🧱 Model Architecture
 
-## 📂 Repository Structure
+![Bangla Chitra Net Architecture](./assets/02.png)
+
+*Figure: Overview of the Bangla Chitra Net model. The system combines a CNN-based encoder, attention mechanism, and an RNN-based decoder under a Transformer framework for Bengali image caption generation.*
+
 
